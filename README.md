@@ -1,7 +1,6 @@
-# Project Homework Assembly
-  This is my first project in Assembly language, which consists of 3 exercises. Here, I have attached the solutions to the 3 exercises and the original project requirements (from "Arhitectura Sistemelor de Calcul (ASC) - Tema Laborator 2023", starting from page 4 to page 6 for the context of the project and from page 7 to page 9 for the requirements). Additionally, I have written the translated requirements in English below.
+# Assembly encrypting and decrypting project
+  This is my first project in Assembly language, which consists of 3 exercises. 
 
-  Moreover, "Arhitectura Sistemelor de Calcul (ASC) - Tema Laborator 2023" includes the context from which the requirements started, too.
 ## Context
 Conway’s Game of Life is a two-dimensional zero-player game, invented by mathematician John Horton Conway in 1970. The purpose of this game is to observe the evolution of a system of cells, starting from an initial configuration, by introducing rules regarding the death or creation of new cells in the system. This evolving system is Turing-complete.
 
